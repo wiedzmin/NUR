@@ -582,8 +582,8 @@
             "url": "https://github.com/wamserma/nur-packages"
         },
         "wiedzmin": {
-            "rev": "c8b1494d5de93242d43f18e7528e9e071bde7edc",
-            "sha256": "15f91jyyfhgf6dpsk6wihx6cw9gad6jf6d19bxdhz6k0z2v0zl41",
+            "rev": "b144431bb442caeb8a39a7cdcd25c3d729fcab4e",
+            "sha256": "0pb7zzbvdn3r91q8kd5rj2k8zg12a3r4vh7vw6iy79hjwpz0lck9",
             "url": "https://github.com/wiedzmin/nur-packages"
         },
         "xe": {
