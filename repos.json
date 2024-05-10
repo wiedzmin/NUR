@@ -1373,6 +1373,10 @@
             "github-contact": "whs",
             "url": "https://github.com/whs/nix"
         },
+        "wiedzmin": {
+            "github-contact": "wiedzmin",
+            "url": "https://github.com/wiedzmin/nur-packages"
+        },
         "willpower3309": {
             "github-contact": "willpower3309",
             "url": "https://github.com/WillPower3309/nur-packages"
