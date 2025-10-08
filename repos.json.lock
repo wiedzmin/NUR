@@ -1675,8 +1675,8 @@
             "url": "https://github.com/whs/nix"
         },
         "wiedzmin": {
-            "rev": "41e7134b6b3dfa1d21e5226c1dac6bbac9359924",
-            "sha256": "1zbvxxclkv2k9zd3vd3410w8473kasbs4lkhanax70klx9y5f0b4",
+            "rev": "0a00901c0b50d607722b71a5cf05d2a42d4627d1",
+            "sha256": "1mwk2zwl34bjl86dhln915is6wv98i4p5cnfv7kyci779565b8l9",
             "url": "https://github.com/wiedzmin/nur-packages"
         },
         "willpower3309": {
