@@ -1425,8 +1425,8 @@
             "url": "https://github.com/ryan4yin/nur-packages"
         },
         "rycee": {
-            "rev": "cd5fdf881ae569c24d3d2d0fa3baa064a70fc292",
-            "sha256": "1v1fm74fk6wxsvjwskl6316n0ix5nfvjamrsz6q4yp6yg8ckz556",
+            "rev": "09deac38ec607361200ed0d88e77b50b00426f0f",
+            "sha256": "0hbwnc0s93qvwiwwp88zb2jccy22wz0dvd0in1mz8lhplv8kgl8k",
             "url": "https://gitlab.com/rycee/nur-expressions"
         },
         "sagikazarmark": {
